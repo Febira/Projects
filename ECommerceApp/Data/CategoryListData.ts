@@ -1,0 +1,26 @@
+export const categoryListData = [
+    {
+        id:1,
+        name:"Smartwatch",
+    },
+    {
+        id:2,
+        name:"AirPods",
+    },
+    {
+        id:3,
+        name:"Product1",
+    },
+    {
+        id:4,
+        name:"Product2",
+    },
+    {
+        id:5,
+        name:"Product3",
+    },   
+    {
+        id:6,
+        name:"Product4",
+    }
+]
